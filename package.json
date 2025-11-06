@@ -1,0 +1,24 @@
+{
+  "name": "atividade-githubpages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fatorial.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-giovanini/Atividade-fatorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gabriel-giovanini/Atividade-fatorial/issues"
+  },
+  "homepage": "https://github.com/gabriel-giovanini/Atividade-fatorial#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
